@@ -1,0 +1,7 @@
+E:\COLLEGE\School 2017-18\195\W6\Demo_TheAionProject.Intro_Starter\Demo_TheAionProject.Intro_Starter\TheAionProject.S1_Starter\bin\Debug\TheAionProject.exe.config
+E:\COLLEGE\School 2017-18\195\W6\Demo_TheAionProject.Intro_Starter\Demo_TheAionProject.Intro_Starter\TheAionProject.S1_Starter\bin\Debug\TheAionProject.exe
+E:\COLLEGE\School 2017-18\195\W6\Demo_TheAionProject.Intro_Starter\Demo_TheAionProject.Intro_Starter\TheAionProject.S1_Starter\bin\Debug\TheAionProject.pdb
+E:\COLLEGE\School 2017-18\195\W6\Demo_TheAionProject.Intro_Starter\Demo_TheAionProject.Intro_Starter\TheAionProject.S1_Starter\obj\Debug\TheAionProject.Intro_Starter.csprojResolveAssemblyReference.cache
+E:\COLLEGE\School 2017-18\195\W6\Demo_TheAionProject.Intro_Starter\Demo_TheAionProject.Intro_Starter\TheAionProject.S1_Starter\obj\Debug\TheAionProject.Intro_Starter.csproj.CoreCompileInputs.cache
+E:\COLLEGE\School 2017-18\195\W6\Demo_TheAionProject.Intro_Starter\Demo_TheAionProject.Intro_Starter\TheAionProject.S1_Starter\obj\Debug\TheAionProject.exe
+E:\COLLEGE\School 2017-18\195\W6\Demo_TheAionProject.Intro_Starter\Demo_TheAionProject.Intro_Starter\TheAionProject.S1_Starter\obj\Debug\TheAionProject.pdb
